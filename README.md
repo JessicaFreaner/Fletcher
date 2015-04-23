@@ -1,4 +1,4 @@
-# Fletcher - Exploring Data with Natural Language Processing
+# Fletcher - Exploring Data with NLP
 
 Fourth project within the Metis Bootcamp. The goal was to use Natural Language Processing on data of our choosing. My choice was the online charity [DonorsChoose.Org](http://data.donorschoose.org/). They are a crowdfunding site aimed at provide desperately needed resources for children in classrooms across the United States. Teachers make submissions and propose projects in need of funding. Visitors to the site choose which projects to help fund.
 
