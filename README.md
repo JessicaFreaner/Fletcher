@@ -11,3 +11,9 @@ To be able to interact with Plotly charts - access here:
 https://plot.ly/~JessFreaner/93/donors-choose-asks-by-need-group/
 
 https://plot.ly/~JessFreaner/87/donors-choose-asks-by-need-group/
+
+##Other Metis Projects:
+[Benson](http://jessicafreaner.github.io/Benson/ "Exploring MTA Data")
+[McNulty](http://jessicafreaner.github.io/McNulty/ "Exploring Heart Health Data")
+[Luther](http://jessicafreaner.github.io/Luther/ "Exploring Movie Data")
+[Kojak](http://jessicafreaner.github.io/Kojak/ "Exploring NYC's Moving Populations")
