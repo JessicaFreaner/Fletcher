@@ -12,8 +12,14 @@ https://plot.ly/~JessFreaner/93/donors-choose-asks-by-need-group/
 
 https://plot.ly/~JessFreaner/87/donors-choose-asks-by-need-group/
 
+
+![ThisIsMetis](https://cloud.githubusercontent.com/assets/9892419/7356548/e1a3b3ac-ecf6-11e4-8fb6-be39f563742e.jpg) 
 ##Other Metis Projects:
-[Benson](http://jessicafreaner.github.io/Benson/ "Exploring MTA Data")
-[McNulty](http://jessicafreaner.github.io/McNulty/ "Exploring Heart Health Data")
-[Luther](http://jessicafreaner.github.io/Luther/ "Exploring Movie Data")
-[Kojak](http://jessicafreaner.github.io/Kojak/ "Exploring NYC's Moving Populations")
+
+[Benson](http://jessicafreaner.github.io/Benson/ "Exploring MTA Data") - Exploring MTA Data
+
+[Luther](http://jessicafreaner.github.io/Luther/ "Exploring Movie Data") - Exploring Movie Data
+
+[McNulty](http://jessicafreaner.github.io/McNulty/ "Exploring Heart Health Data") - Exploring Heart Health Data
+
+[Kojak](http://jessicafreaner.github.io/Kojak/ "Exploring NYC's Moving Populations") - Exploring NYC's Moving Populations
