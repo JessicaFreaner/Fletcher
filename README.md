@@ -14,9 +14,9 @@ Data sourced from here: http://data.donorschoose.org/open-data/project-essay-dat
 
 To be able to interact with Plotly charts - access here:
 
-https://plot.ly/~JessFreaner/93/donors-choose-asks-by-need-group/
+[Numbers of Asks By Need Group - Sorted Plot](https://plot.ly/~JessFreaner/93/donors-choose-asks-by-need-group/)
 
-https://plot.ly/~JessFreaner/87/donors-choose-asks-by-need-group/
+[Numbers of Asks By Need Group - Unsorted Plot](https://plot.ly/~JessFreaner/87/donors-choose-asks-by-need-group/)
 
 
 ![ThisIsMetis](https://cloud.githubusercontent.com/assets/9892419/7356548/e1a3b3ac-ecf6-11e4-8fb6-be39f563742e.jpg) 
